@@ -26,9 +26,7 @@ For the prepare part, prev 12 months of data for 2023 was downloaded of the link
 	uploaded one of the CSVs in google big query,  https://console.cloud.google.com/bigquery?project=cyclisticdataset-414911&ws=!1m9!1m4!4m3!1scyclisticdataset-414911!2scyclistic_TripData!3sTripData2023!1m3!8m2!1s3128281954!2s23521b819c7d4701a07449a2dcce0979
 	
 	
-	 SELECT * FROM `cyclisticdataset-414911.cyclistic_TripData.TripData2023` LIMIT 1000
 	 
-	 Loaded all 12 csvs for 2023 data into table 'TripData2023' 
 	 Files named 'Divvy_trips_xxx' were ignored since the data didn't seem valid, column names were not consistent  , and they didn't contain most recent data i.e of the year 2023
 	 
 	 202301-divvy-tripdata
