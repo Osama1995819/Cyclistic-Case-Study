@@ -90,4 +90,8 @@ Recommendations :
 		  riders can be targetted more by the marketing team in order to increase subscription.
 		  
 		. In order to better confirm the hypothesis in the 2nd and 3rd point additonal data can be collected about the age of the rider in question for each ride and their gender as well for a more well rounded analysis. 
-	 
+
+Attaching sql files used in analysis , as well as link to tablaue public page 
+
+Link to visualizations on tablaue https://public.tableau.com/app/profile/osama.naeem6613/viz/CyclisticCaseStudyDataVisualizations/Dashboard1 
+
