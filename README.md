@@ -70,6 +70,8 @@ Analysis:
 	. The first aggregate query is showing the number of rides of casual vs member . and out of 5707557 rides , members had 3653669 rides compared to 2053888 rides by casual riders, showing that members use cyclyistic bikes more
 	  frequently
 	. On the contrary if we compute average ride time of member vs casual , the average ride time of member is 12.55 min whereas for casual it is 28.32 minutes 
+![image](https://github.com/Osama1995819/Cyclistic-Case-Study/assets/123731570/45460b23-723a-444e-a00d-33d9c2bd8723)
+
 	. For the type of bike that was ridden by memebr vs causal, most members had a roughly equal ratio of electric bike (1836767) to classic bike (1816902) , whereas most casual riders preferred electric bike (1099880) to classic bike (875825) or docked bike (78183).
 	. When we break down number of bike rides for member vs casual for member vs casual, we notice a significant increase around weekend  and on weekend for casual riders(friday, saturday , sunday) when compared with other days of the week. Comparitively members have a somewhat consistent number of rides throughout the week, infact slightly decreasing around the weekend. 
 	. The average distance travelled by casual riders is also higher than for members 
