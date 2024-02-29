@@ -69,13 +69,21 @@ Analysis:
 	
 	. The first aggregate query is showing the number of rides of casual vs member . and out of 5707557 rides , members had 3653669 rides compared to 2053888 rides by casual riders, showing that members use cyclyistic bikes more
 	  frequently
+   ![image](https://github.com/Osama1995819/Cyclistic-Case-Study/assets/123731570/92439989-5f3b-4dcb-a39b-76bfc94ae9af)
+
 	. On the contrary if we compute average ride time of member vs casual , the average ride time of member is 12.55 min whereas for casual it is 28.32 minutes 
 ![image](https://github.com/Osama1995819/Cyclistic-Case-Study/assets/123731570/45460b23-723a-444e-a00d-33d9c2bd8723)
 
 	. For the type of bike that was ridden by memebr vs causal, most members had a roughly equal ratio of electric bike (1836767) to classic bike (1816902) , whereas most casual riders preferred electric bike (1099880) to classic bike (875825) or docked bike (78183).
+ ![image](https://github.com/Osama1995819/Cyclistic-Case-Study/assets/123731570/f750cb05-9903-4d70-8948-e433b9b765c3)
+
 	. When we break down number of bike rides for member vs casual for member vs casual, we notice a significant increase around weekend  and on weekend for casual riders(friday, saturday , sunday) when compared with other days of the week. Comparitively members have a somewhat consistent number of rides throughout the week, infact slightly decreasing around the weekend. 
+ ![image](https://github.com/Osama1995819/Cyclistic-Case-Study/assets/123731570/cf8acd2c-693c-48fd-8155-56d777b2f85a)
+
 	. The average distance travelled by casual riders is also higher than for members 
 	. If we look at number of rides for member vs casual per month, then we see an increase during the summer as compared for both casual vs memebr , but for casual the % increase in rides is much more marked as compared to members.
+ ![image](https://github.com/Osama1995819/Cyclistic-Case-Study/assets/123731570/8344f613-ae85-4698-bed1-cf9593dd6800)
+
 	
 		
 Recommendations : 
@@ -97,3 +105,4 @@ Attaching sql files used in analysis , as well as link to tablaue public page
 
 Link to visualizations on tablaue https://public.tableau.com/app/profile/osama.naeem6613/viz/CyclisticCaseStudyDataVisualizations/Dashboard1 
 
+![image](https://github.com/Osama1995819/Cyclistic-Case-Study/assets/123731570/465f097e-1b9f-4d4e-9e88-da2ff230546b)
